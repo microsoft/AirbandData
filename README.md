@@ -1,6 +1,6 @@
 # AirBand Project - Public Data Repository
 
-This is a public source of data used for the AirBand Project. It's intended use is to offer a private way to share the public data concerning the rural broadband project. Partners can download the curated public data sets for their use. Additionally, partners may fork this repo of data, add to it and keep it private (if desired).
+This is a public source of data used for ISPs to use for AirBand Projects. It's intended use is to offer a way to share the public data concerning the rural broadband projects. Partners can download the curated public data sets for their use. Additionally, partners may fork this repo of data, add to it and keep it private (if desired).
 
 Coming but not available yet: Download, branch, co-mingle data intended for public use, and then issue a pull request to add to the public data set thus sharing unique private data with the remainder of the ISP community supporting rural internet projects.
 
